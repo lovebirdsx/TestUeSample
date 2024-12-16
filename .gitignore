@@ -37,3 +37,6 @@ Saved/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+# Ignore js files
+node_modules/
